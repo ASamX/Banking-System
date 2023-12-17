@@ -1,0 +1,18 @@
+id,accountId,transactionType,amount
+1,1,Deposit,1000000.0
+2,1,Deposit,1.0E7
+3,1,Withdrawal,1000000.0
+4,1,Withdrawal,100000.0
+7,1,Deposit,1000000.0
+6,2,Deposit,1000.0
+7,1,Deposit,1000.0
+8,2,Transfer (Sent),1000.0
+9,1,Transfer (Received),1000.0
+10,1,Transfer (Sent),1000.0
+11,2,Transfer (Received),1000.0
+12,1,Deposit,1000.0
+13,1,Transfer (Sent),1000.0
+14,1,Deposit,1000.0
+15,1,Deposit,1000.0
+16,1,Transfer (Received),1000.0
+16,2,Transfer (Received),1000.0
